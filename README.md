@@ -7,3 +7,6 @@
 - 📫 How to reach me: @deyemie__
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Me.
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=atoyegbe.atoyegbe)
