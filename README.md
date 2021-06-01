@@ -1,7 +1,7 @@
 ### Hi there I'm Adeyemi 👋
 
-- 🔭 I’m currently working on some personal projects.
-- 🌱 I’m currently learning Python(Django/Flask) and Go.
+- 🔭 I’m currently doing some software enginering stuffs.
+- 🌱 I’m currently learning and Go.
 - 👯 I’m looking to collaborate on Backend Projects.
 - 📫 How to reach me: [@deyemie__](https://twitter.com/deyemie__) 
 - 😄 Pronouns: He/Him
