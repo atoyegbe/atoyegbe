@@ -1,10 +1,5 @@
 ### Hi there I'm Adeyemi 👋
 
-- 🔭 I’m currently doing some software enginering stuffs.
-- 🌱 I’m currently learning GoLang.
-- 👯 I’m looking to collaborate on Backend Projects.
-- 📫 How to reach me: [@deyemie__](https://twitter.com/deyemie__) 
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Me.
 
 
