@@ -20,11 +20,12 @@ I am currently learning more about financial market data.
   A client-side web application that lets you visualize your Spotify listening history with beautiful charts and insights. Upload your Spotify extended streaming history and get personalized analytics about your music taste.  
   *(React, Netlify, Spotify Data)*
 
-- **MetaMacro**  
-  A modern, interactive dashboard for analyzing market sector momentum and regime behavior.  
-  Built with React, TailwindCSS, and D3.js, MetaMacro compares sector and stock performance against benchmarks using adaptive swing detection, valuation zones, and RMI-based momentum analytics.  
-  *(React, D3.js, TailwindCSS, Financial Data Visualization, Momentum Modeling)*  
+- **MetaMacro – Quantitative Edge for Modern Investors**  
+  A market analytics platform that integrates macroeconomic analysis with quantitative models to support intelligent investment decisions.  
+  MetaMacro delivers tools for regime detection, momentum evaluation, and valuation analysis across sectors and individual stocks, enabling systematic insight into market behavior.  
+  *(React, D3.js, TailwindCSS, Financial Engineering, Quantitative Research)*  
   👉 [metamacro.org](https://metamacro.org)
+
 
 
 ---
