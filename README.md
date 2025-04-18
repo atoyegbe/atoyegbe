@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Adeyemi Atoyegbe
 
 I'm a Software Engineer passionate about building reliable backend systems, data pipelines, and tools that solve real-world problems.
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=atoyegbe.atoyegbe)
 
 ✨ Fun fact:  
 I am currently learning more about financial market data.
@@ -53,4 +52,6 @@ I am currently learning more about financial market data.
 ### 💬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/atoyegbe/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/deyemie__)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=atoyegbe.atoyegbe)
 
