@@ -20,10 +20,12 @@ I am currently learning more about financial market data.
   A client-side web application that lets you visualize your Spotify listening history with beautiful charts and insights. Upload your Spotify extended streaming history and get personalized analytics about your music taste.  
   *(React, Netlify, Spotify Data)*
 
-- **Sector Performance Analysis Tool**  
-  Helping a friend turn his manually-driven market analysis model into a Python-based financial analysis tool.  
-  The tool compares the performance of 11 market sectors against major indices using range-based analysis and Relative Momentum Index (RMI) to identify sector strength and market regimes.  
-  *(Python, Pandas, Matplotlib, Financial Analysis)*
+- **MetaMacro**  
+  A modern, interactive dashboard for analyzing market sector momentum and regime behavior.  
+  Built with React, TailwindCSS, and D3.js, MetaMacro compares sector and stock performance against benchmarks using adaptive swing detection, valuation zones, and RMI-based momentum analytics.  
+  *(React, D3.js, TailwindCSS, Financial Data Visualization, Momentum Modeling)*  
+  👉 [metamacro.org](https://metamacro.org)
+
 
 ---
 
