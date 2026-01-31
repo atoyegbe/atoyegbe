@@ -5,28 +5,6 @@ I'm a Software Engineer passionate about building reliable backend systems, data
 ✨ Fun fact:  
 I am currently learning more about financial market data.
 
-### 🚧 What I'm Currently Working On
-
-- **[Woven Insights](https://woveninsights.ai/)**  
-  A fashion analytics platform providing brands with insights into fashion trends, product performance, and consumer behavior by aggregating and analyzing large-scale fashion data.  
-  *(Python, FastAPI, GCP, Data Pipelines, LLM Integrations)*
-
-- **[Alma](https://github.com/atoyegbe/alma)**  
-  A music-powered social app exploring how listening patterns can help connect people.  
-  *(Flask, MongoDB, TailwindCSS, Spotify OAuth)*
-
-- **Rewind 🎵**  
-  A client-side web application that lets you visualize your Spotify listening history with beautiful charts and insights. Upload your Spotify extended streaming history and get personalized analytics about your music taste.  
-  *(React, Netlify, Spotify Data)*
-
-- **MetaMacro – Quantitative Edge for Modern Investors**  
-  A market analytics platform that integrates macroeconomic analysis with quantitative models to support intelligent investment decisions.  
-  MetaMacro delivers tools for regime detection, momentum evaluation, and valuation analysis across sectors and individual stocks, enabling systematic insight into market behavior.  
-  *(React, D3.js, TailwindCSS, Financial Engineering, Quantitative Research)*  
-  👉 [metamacro.org](https://metamacro.org)
-
-
-
 ---
 
 ### ⚡ Tech Stack
